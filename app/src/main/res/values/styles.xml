@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    コ <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/design_default_color_primary_dark</item>
+    <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+    <item name="colorAccent">@color/design_default_color_primary_dark</item>
+</style>
+    E
+    <style name="AppTheme.AdAttribution">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:background">#ffcc66</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/ad_attribution</item>
+        <item name="android:height">15dp</item>
+        <item name="android:width">15dp</item>
+        コ </style>
+</resources>
